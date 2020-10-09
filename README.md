@@ -13,8 +13,9 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
   
+</hr>
 
-<hr>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLopes01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael A. L. Alves github stats](https://github-readme-stats.vercel.app/api?username=RafaelLopes01)](https://github.com/anuraghazra/github-readme-stats)
