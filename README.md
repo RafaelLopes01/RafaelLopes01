@@ -12,6 +12,7 @@
 <a target="_blank" href="mailto:rafaellopestv.01@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+*
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLopes01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
